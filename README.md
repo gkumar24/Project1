@@ -2,7 +2,7 @@
 ## Project Work - Group 3 - UOM Data Analysis and Visualization Bootcamp
 
 ## Project Presentation
-* [13 Reasons Py - Project Presentation](/13 Reasons.pptx)
+* [13 Reasons Py - Project Presentation](/13%20Reasons.pptx)
 
 ## Complete Jupyter Notebook Code
 * [13 Reasons Py - Analysis and Visualization](/13ReasonsPy.ipynb)
