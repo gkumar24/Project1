@@ -14,7 +14,8 @@
 * [List of states](/Resources/StateAbbr.csv)
 
 ### Regression Analysis
-* [Regression Analysis](/Output/RegressionAnalysis.png)
+
+![Regression Analysis](/Output/RegressionAnalysis.png)
 
 ### Plots & Resource snapshot for 13-Reasons-Py Analysis
 * [Plots & Resources Page](/Output)
